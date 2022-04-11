@@ -1,5 +1,0 @@
-#1
-git branch test
-
-#2
-git branch feature/1 test
