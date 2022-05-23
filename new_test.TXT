@@ -1,0 +1,2 @@
+main에서 pull 받은 후 새로운 파일 생성
+-> pull request 테스트
